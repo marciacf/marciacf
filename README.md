@@ -1,4 +1,4 @@
-# Hi there 👋
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcia-cristina-de-freitas/)
 
 🔭 Sou graduada e Mestre em Física com ênfase em Astrofísica, pela UFMG. 
 Possuo experiência em: 
