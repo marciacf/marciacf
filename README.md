@@ -1,7 +1,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcia-cristina-de-freitas/)
 
 ### Analista de Dados
-🔭 Sou graduada em Física e Mestre em Astrofísica, pela UFMG. 
+🔭 Sou Analista de Dados, graduada em Física e Mestre em Astrofísica, pela UFMG. 
 
 ##  ⚙️  **Linguagens e Ferrementas que uso:**
 
